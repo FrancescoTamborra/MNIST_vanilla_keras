@@ -1,2 +1,4 @@
 # MNIST_vanilla_keras
-Using a vanilla network with keras to learn handwritten digits
+Using a vanilla network with keras for image classification
+
+#ComputerVision #NeuralNetwork #MachineLearning #Classification
